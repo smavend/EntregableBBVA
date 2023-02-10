@@ -1,2 +1,0 @@
-No he podido subir la carpeta con el proyecto, debido a que al moverlo de ubicación parece ser que los archivos internos no se copiaron.
-Solo me aparece la carpeta vacía, mil disculpas por los inconvenientes, adjuntaré la base de datos por el momento y los archivos de .idea que he encontrado.
